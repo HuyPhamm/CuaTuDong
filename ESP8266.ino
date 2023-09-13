@@ -47,8 +47,8 @@ DFRobot_DHT11 DHT;
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "IoT LAB";
-char pass[] = "kvt1ptit";
+char ssid[] = "Tên Wifi";
+char pass[] = "Pass Wifi";
 
 void setup()
 {
